@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>kaiyu.shan@outlook.com</p>
-    <p>china</p>
-    <p>👨‍💻</p>
+    <p>china                 </p>
+    <p>👨‍💻                    </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
