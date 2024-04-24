@@ -21,21 +21,23 @@ social: true # includes social icons at the bottom of the page
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, Python, Java, Kotlin],
-   technologies: {
-      frontEnd: {
-         js: ["Vue", "Angular"],
-         css: ["Bootstrap"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node"]
-      },
-      databases: ["MongoDB", "mySQL", "PostgreSQL"]
-   }
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, Python, Java, Kotlin],
+  technologies: {
+    frontEnd: {
+      js: ["Vue", "Angular"],
+      css: ["Bootstrap"],
+    },
+    backEnd: {
+      java: ["Spring"],
+      js: ["Node"],
+    },
+    databases: ["MongoDB", "mySQL", "PostgreSQL"],
+  },
 };
 ```
-</br></br>
-<h2>current status: 陪伴家人、看看世界、写写代码~</h2>
 
+</br></br>
+
+
+<h2>current status: 陪伴家人、看看世界、写写代码~</h2>
