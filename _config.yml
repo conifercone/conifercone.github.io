@@ -127,8 +127,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: 夷则 # blog_name will be displayed in your blog page
+blog_description: 不想把這個世界交給無趣的人
 permalink: /blog/:year/:title/
 
 # Pagination
